@@ -3,5 +3,8 @@ open  class Car {
     protected var color ="Black"
     protected var model ="Chevrolet"
 
-    show
+    protected fun show(){
+        println(name)
+        println(color)
+    }
 }

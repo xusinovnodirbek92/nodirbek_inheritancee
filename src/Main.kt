@@ -10,5 +10,8 @@ fun main() {
 //
 //    val dog = Cat()
 //    dog.showCat()
-
+val BMW=BMW()
+    BMW.showBMW()
+    val Cobalt=Cobalt()
+    Cobalt.showCobalt()
 }
